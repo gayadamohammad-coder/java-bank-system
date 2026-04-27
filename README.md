@@ -12,7 +12,7 @@ This project is a simple banking system implemented in Java using object-oriente
 - Abstraction (BankAccount abstract class)
 - Inheritance (SavingsAccount, CurrentAccount)
 - Polymorphism (method overriding)
-- Encapsulation (private fields with methods)
+- Encapsulation (private fields and methods)
 - Composition (Customer has multiple accounts)
 - Static variables (auto-generated account numbers)
 
